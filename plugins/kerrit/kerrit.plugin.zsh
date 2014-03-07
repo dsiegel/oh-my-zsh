@@ -1,3 +1,3 @@
 autoload -U bashcompinit
 bashcompinit
-source /Library/Python/2.7/site-packages/kerrit/kerrit-completion.bash
+source /Users/dsiegel/r/tools/Kerrit/kerrit/kerrit-completion.bash
