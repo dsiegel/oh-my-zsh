@@ -1,0 +1,11 @@
+[color]
+	ui = true
+[user]
+	name = David Siegel
+	email = dsiegel@knewton.com
+[credential]
+	helper = osxkeychain
+[core]
+	editor = /usr/bin/vim
+[push]
+	default = simple
